@@ -1,0 +1,64 @@
+body {
+    background-color: rgb(88, 138, 135)
+}
+
+.logo {
+    padding: 30px 0px 30px;
+}
+
+.logo h3 {
+    text-align: center;
+    color: rgb(182, 198, 190);
+}
+
+.logo p {
+    text-align: center;
+    color: rgb(182, 198, 190);
+}
+
+.form-label {
+    color: rgb(241, 221, 221);
+    padding-top: 10px;
+}
+
+.form-control {
+    text-align: center;
+}
+
+.botao {
+    padding-top: 20px;
+}
+
+.container-text {
+    color: rgb(241, 221, 221);
+}
+
+.container-text h3 {
+    color: rgb(241, 221, 221);
+}
+
+.resultados {
+    padding-top: 20px;
+}
+
+.resultados h5 {
+    color: rgb(241, 221, 221);
+    text-align: center;
+}
+
+.container p {
+    text-align: justify;
+    font-size: 0.6rem;
+    padding-left: 30px;
+    color: rgb(182, 198, 190);
+}
+
+.container th {
+    text-align: center;
+    width: 50%;
+}
+
+.container td {
+    text-align: center;
+    width: 50%;
+}
